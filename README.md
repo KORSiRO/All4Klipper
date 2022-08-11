@@ -25,6 +25,7 @@
 - [Mooncord](https://github.com/eliteSchwein/mooncord)
 - [Prind](https://github.com/mkuf/prind)
 - [Kiauh](https://github.com/th33xitus/kiauh) *(Script qui facilite l'installation de Klipper)*
+- [Klipper on Android device](https://klipperscreen.readthedocs.io/en/latest/Android/)
 
 ### CONFIGURATION / MACROS :
 
