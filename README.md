@@ -8,6 +8,7 @@
   
 ### INSTALLATION :
 
+- [Github Guilouz](https://github.com/Guilouz/Klipper-Flsun-Super-Racer)
 - [Github Samtech3D](https://github.com/Samtech3D/FLSUN-SR-Klipper-Klipper-Screen-Neopixel-Theme?fs=e&s=cl)
 - [Github Klipper](https://github.com/Klipper3d/klipper)
 - [Site Klipper](https://www.klipper3d.org/)
